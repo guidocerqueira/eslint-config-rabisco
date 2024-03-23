@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "guidocerqueira/eslint-config-rabisco"
+    "url": "git+https://github.com/guidocerqueira/eslint-config-rabisco.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
