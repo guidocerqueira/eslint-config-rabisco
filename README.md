@@ -14,7 +14,7 @@
 
 Install:
 ```
-npm i -D eslint @guidocerqueira/eslint-config
+npm i -D @guidocerqueira/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
@@ -30,7 +30,7 @@ Adiciona em: `.eslintrc.json`
 
 Install:
 ```
-npm i -D eslint @guidocerqueira/eslint-config
+npm i -D @guidocerqueira/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
@@ -43,7 +43,7 @@ Adiciona em: `.eslintrc.json`
 
 Install:
 ```
-npm i -D eslint @guidocerqueira/eslint-config
+npm i -D @guidocerqueira/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
