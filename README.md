@@ -14,13 +14,13 @@
 
 Install:
 ```
-npm i -D @guidocerqueira/eslint-config
+npm i -D @rabisco/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
 {
   "extends": [
-    "@guidocerqueira/eslint-config/next", 
+    "@rabisco/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Adiciona em: `.eslintrc.json`
 
 Install:
 ```
-npm i -D @guidocerqueira/eslint-config
+npm i -D @rabisco/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
 {
-  "extends": "@guidocerqueira/eslint-config/react"
+  "extends": "@rabisco/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Adiciona em: `.eslintrc.json`
 
 Install:
 ```
-npm i -D @guidocerqueira/eslint-config
+npm i -D @rabisco/eslint-config
 ```
 Adiciona em: `.eslintrc.json`
 ```
 {
-  "extends": "@guidocerqueira/eslint-config/node"
+  "extends": "@rabisco/eslint-config/node"
 }
 ```
