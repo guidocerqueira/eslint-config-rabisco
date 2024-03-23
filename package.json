@@ -1,6 +1,6 @@
 {
   "name": "@rabisco/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "Configuração eslint com prettier",
   "main": "index.js",
